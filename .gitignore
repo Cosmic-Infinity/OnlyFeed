@@ -33,6 +33,6 @@ pnpm-debug.log*
 .idea/
 
 # Env files
-# .env
-# .env.*
-# !.env.vps.example
+.env
+.env.*
+!.env.vps.example
