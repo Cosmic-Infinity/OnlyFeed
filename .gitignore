@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Java/Spring
+backend/target/
+backend/.mvn/
+
+# Node/Vite
+frontend/node_modules/
+frontend/dist/
+godmode/node_modules/
+godmode/dist/
+
+# JS tooling caches
+.npm/
+.pnpm-store/
+.yarn/
+.cache/
+coverage/
+*.tsbuildinfo
+vite.config.ts.timestamp-*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Env files
+# .env
+# .env.*
+# !.env.vps.example
