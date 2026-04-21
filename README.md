@@ -1,6 +1,6 @@
 # OnlyFeed
 
-A compact full-stack social media application built with Spring Boot, React, and PostgreSQL — developed as a Capstone project.
+A compact full-stack social media application built with Spring Boot, React, and PostgreSQL.
 
 ## Stack
 
